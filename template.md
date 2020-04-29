@@ -132,7 +132,7 @@ Para cada requisito se debería especificar, su ID, nombre del requisito, descri
 ### ID - Nombre del requisito
 Descripción
 #### Dependencias 
-#### Priodidad
+#### Prioridad
 #### Justificación
 
 ### 4.1 Precedencia y prioridad
@@ -150,7 +150,7 @@ Esta tabla se generará en paralelo a las secciones correspondientes, y se compl
 
 
 ### 4.2 Funcionales
-Esta sección especifica los requisitos funcionales de sistema que el futuro software debe tener en su entorno. Se aconseja poner un enlace al documento de casos de uso generado por magic draw para que el lector tenga una vista general de las funcionalidades del producto a generar.
+Esta sección especifica los requisitos funcionales de sistema que el futuro software debe tener en su entorno. Se aconseja inclur al final de esta subsección, tras describir los requisitos funcionales, un enlace al documento de casos de uso generado por magic draw para que el lector tenga una vista general de las funcionalidades del producto a generar.
 
 
 
