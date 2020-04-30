@@ -73,15 +73,15 @@ Describa lo que contiene el resto del documento y cómo está organizado. Depend
 Esta sección debe describir los factores generales que afectan el producto que se va a generar y sus requisitos de usuario o negocio. Esta sección no establece requisitos de sistema. En cambio, proporciona la base para entender estos requisitos de sistema, los cuales serán definidos en la sección 3.
 
 ### 2.1 Perspectiva del producto
-Describa el contexto y el origen del producto que se especifica en este SRS. Por ejemplo, indique si este producto es continuación o extensión de una familia de productos, un reemplazo para ciertos sistemas existentes o un producto nuevo. Si el SRS define un componente de un sistema más grande, relacione los requisitos del sistema más grande con la funcionalidad de este software e identifique las interfaces entre los dos. Puede ser útil incluir un diagrama de bloques simple que muestre los componentes principales del sistema general, las interconexiones del subsistema y las interfaces externas.
+Describa el contexto (quién, cómo y para qué) y el origen del producto (el proyecto surge ...) que se especifica en este SRS. Por ejemplo, indique si este producto es continuación o extensión de una familia de productos, un reemplazo para ciertos sistemas existentes o un producto nuevo. Si el SRS define un componente de un sistema más grande, relacione los requisitos del sistema más grande con la funcionalidad de este software e identifique las interfaces entre los dos. Puede ser útil incluir un diagrama de bloques simple que muestre los componentes principales del sistema general, las interconexiones del subsistema y las interfaces externas.
 
 ### 2.2 Funciones del producto
-Resuma las funciones principales que el producto debe realizar o debe permitir que el usuario realice. Los detalles se proporcionarán en la Sección 3, por lo que aquí solo se necesita un resumen de alto nivel (como una lista de los requisitos a nivel de usuario principales). Organice las funciones para que sean comprensibles para cualquier lector del SRS. Cómo extensión, un diagrama de casos de uso puede ayudar a entender esas funcionalidades.
+Resuma las funciones principales que el producto debe realizar o debe permitir que el usuario realice. Los detalles se proporcionarán en la Sección 3, por lo que aquí solo se necesita un resumen de alto nivel (como una lista de los requisitos a nivel de usuario principales con un breve resumen de cada uno de ellos). Organice las funciones para que sean comprensibles para cualquier lector del SRS. Cómo extensión, un diagrama de casos de uso puede ayudar a entender esas funcionalidades.
 
 ### 2.3 Restricciones del producto
 Esta subsección debe proporcionar una descripción general de cualquier otro elemento que limitará las opciones del desarrollador. Estos pueden incluir:
 
-* Interfaces para usuarios, otras aplicaciones a usar o limitaciones hardware.
+* Interfaces para usuarios, otras aplicaciones a usar (versiones mínimas) o limitaciones hardware.
 * Restricciones de calidad de servicio.
 * Cumplimiento de normas.
 * Restricciones en torno al diseño o implementación.
