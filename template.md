@@ -95,7 +95,7 @@ Un actor en un caso de uso pertenecerá al menos a un perfil de usuario (podría
 Enumere todos los factores asumidos que podrían afectar los requisitos establecidos en el SRS. Estos podrían incluir componentes comerciales o de terceros que planea utilizar, problemas relacionados con el entorno operativo o de desarrollo, o restricciones. El proyecto podría verse afectado si estos supuestos son incorrectos, no se comparten o cambian. Identifique también cualquier dependencia que el proyecto tenga de factores externos, como los componentes de software que pretende reutilizar de otro proyecto, a menos que ya estén documentados en otro lugar (por ejemplo, en el plan del proyecto).
 
 ### 3 Interfaces externas
-Esta subsección define todos las interfazes de entrada y salida del sistema de software. Esta sección facilita la comprensión de los requisitos. Cada interfaz definida puede incluir el siguiente contenido:
+Esta subsección define todas las interfaces de entrada y salida del sistema de software. Esta sección facilita la comprensión de los requisitos. Cada interfaz definida puede incluir el siguiente contenido:
 * Nombre del artículo
 * Fuente de entrada o destino de salida
 * Rango válido, precisión y / o tolerancia
